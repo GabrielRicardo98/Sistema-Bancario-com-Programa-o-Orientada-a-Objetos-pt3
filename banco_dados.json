@@ -1,0 +1,51 @@
+{
+    "numero_conta": "00000-0",
+    "saldo": 75.0,
+    "extrato": [
+        {
+            "data_hora": "21/05/2025 20:35:15",
+            "tipo": "Dep\u00f3sito",
+            "valor": 100.0
+        },
+        {
+            "data_hora": "21/05/2025 20:35:15",
+            "tipo": "Saque",
+            "valor": 50.0
+        },
+        {
+            "data_hora": "21/05/2025 20:35:15",
+            "tipo": "Transfer\u00eancia para 54321-X",
+            "valor": 25.0
+        },
+        {
+            "data_hora": "21/05/2025 20:39:11",
+            "tipo": "Dep\u00f3sito",
+            "valor": 100.0
+        },
+        {
+            "data_hora": "21/05/2025 20:39:11",
+            "tipo": "Saque",
+            "valor": 50.0
+        },
+        {
+            "data_hora": "21/05/2025 20:39:11",
+            "tipo": "Transfer\u00eancia para 54321-X",
+            "valor": 25.0
+        },
+        {
+            "data_hora": "21/05/2025 20:43:46",
+            "tipo": "Dep\u00f3sito",
+            "valor": 100.0
+        },
+        {
+            "data_hora": "21/05/2025 20:43:46",
+            "tipo": "Saque",
+            "valor": 50.0
+        },
+        {
+            "data_hora": "21/05/2025 20:43:46",
+            "tipo": "Transfer\u00eancia para 54321-X",
+            "valor": 25.0
+        }
+    ]
+}

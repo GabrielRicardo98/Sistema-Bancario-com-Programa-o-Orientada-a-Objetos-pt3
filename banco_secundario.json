@@ -1,0 +1,21 @@
+{
+    "numero_conta": "54321-X",
+    "saldo": 75.0,
+    "extrato": [
+        {
+            "data_hora": "21/05/2025 20:35:15",
+            "tipo": "Dep\u00f3sito",
+            "valor": 25.0
+        },
+        {
+            "data_hora": "21/05/2025 20:39:11",
+            "tipo": "Dep\u00f3sito",
+            "valor": 25.0
+        },
+        {
+            "data_hora": "21/05/2025 20:43:46",
+            "tipo": "Dep\u00f3sito",
+            "valor": 25.0
+        }
+    ]
+}
